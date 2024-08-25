@@ -16,4 +16,4 @@ The abstract base contract that defines the core functionalities and standards f
 
 ### `AmusementTokenBase`
 
-The main deployable contract that inherits from `AmusementTokenBase` and includes additional features specific to the amusement park token.
+The main deployable contract that inherits from `TokenBase` and includes additional features specific to the amusement park token.
