@@ -10,10 +10,10 @@ A simple smart contract project for creating a custom cryptocurrency token to be
 
 ## Contracts
 
-### `AmusementTokenBase`
+### `TokenBase`
 
 The abstract base contract that defines the core functionalities and standards for the amusement park token.
 
-### `TokenBase`
+### `AmusementTokenBase`
 
 The main deployable contract that inherits from `AmusementTokenBase` and includes additional features specific to the amusement park token.
